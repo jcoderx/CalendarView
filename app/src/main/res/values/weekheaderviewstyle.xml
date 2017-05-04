@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">32dp</dimen>
+    <dimen name="text_size">11sp</dimen>
+    <color name="weekday_text_color">#333333</color>
+    <color name="weekend_text_color">#ff5555</color>
+</resources>

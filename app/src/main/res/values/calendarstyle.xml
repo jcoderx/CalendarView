@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="month_title_text_color">#333333</color>
+
+    <color name="disable_text_color">#b2b2b2</color>
+
+    <color name="day_normal_text_color">#333333</color>
+    <color name="today_text_color">#4499ff</color>
+    <color name="workday_normal_text_color">#333333</color>
+    <color name="restday_normal_text_color">#ff5555</color>
+    <color name="extend_normal_text_color">#888888</color>
+
+    <color name="start_day_text_color">#ffffff</color>
+    <color name="start_day_mark_text_color">#ffffff</color>
+    <color name="start_day_extend_text_color">#ffffff</color>
+    <color name="start_day_rest_work_day_text_color">#ffffff</color>
+
+    <color name="end_day_text_color">#ffffff</color>
+    <color name="end_day_mark_text_color">#ffffff</color>
+    <color name="end_day_extend_text_color">#ffffff</color>
+    <color name="end_day_rest_work_day_text_color">#ffffff</color>
+
+    <color name="range_day_text_color">#4499ff</color>
+    <!--以下两种颜色UI未标注-->
+    <color name="range_day_extend_text_color">#4499ff</color>
+    <color name="range_day_rest_work_day_text_color">#4499ff</color>
+
+    <color name="bg_range_day_color">#daeaff</color>
+
+
+    <dimen name="month_title_text_size">14sp</dimen>
+    <dimen name="day_text_size">15sp</dimen>
+    <dimen name="start_end_day_mark_text_size">10sp</dimen>
+    <dimen name="extend_text_size">10sp</dimen>
+    <dimen name="rest_work_day_text_size">9sp</dimen>
+    <dimen name="holiday_text_size">12sp</dimen>
+
+    <dimen name="row_height">48dp</dimen>
+    <dimen name="row_padding">4dp</dimen>
+    <dimen name="month_header_height">40dp</dimen>
+
+    <dimen name="month_title_padding_top">20dp</dimen>
+    <dimen name="day_padding_top">10dp</dimen>
+    <dimen name="extend_padding_top">8dp</dimen>
+    <dimen name="rest_work_day_padding">1dp</dimen>
+
+    <dimen name="month_padding">12dp</dimen>
+    <color name="month_divider_color">#ebebeb</color>
+    
+    <!--单选 -->
+    <color name="checked_day_text_color">#ffffff</color>
+    <color name="checked_day_extend_text_color">#ffffff</color>
+    <color name="checked_day_rest_work_day_text_color">#ffffff</color>
+    <color name="checked_day_mark_text_color">#ffffff</color>
+    <color name="checked_day_holiday_text_color">#ffffff</color>
+    <color name="checked_day_bg_color">#4499ff</color>
+    <dimen name="checked_day_mark_text_size">10sp</dimen>
+
+</resources>

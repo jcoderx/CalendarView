@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button android:id="@+id/button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="xxxxxxxxx"/>
+
+    <cn.xudaodao.android.calendarview.WeekHeaderView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f8f8f8" />
+
+    <cn.xudaodao.android.calendarview.DatePickerView
+        android:id="@+id/datepickerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"/>
+
+    <!--android:scrollbars="vertical" -->
+</LinearLayout>
